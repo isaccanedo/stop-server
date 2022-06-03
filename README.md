@@ -1,6 +1,6 @@
 # stop-server [![](https://badge.fury.io/js/stop-server.svg)](https://www.npmjs.com/package/stop-server) [![](https://travis-ci.org/typicode/stop-server.svg?branch=master)](https://travis-ci.org/typicode/stop-server)
 
-> Shut down your computer with your phone :iphone: (works on OS X, Linux and Windows)
+> Desligue o computador com o telefone :iphone: (works on OS X, Linux and Windows)
 
 ## Install
 
